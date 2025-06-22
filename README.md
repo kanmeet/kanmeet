@@ -19,7 +19,7 @@ I'm a motivated and committed learner transitioning into the world of Artificial
 
 ## 📄 My Resume
 
-📥 [Click here to view or download my resume (PDF)](./Anmeet_Kaur_CV.pdf)
+📥 [Click here to view or download my resume (PDF)](./Data Scientist AI.pdf)
 
 ---
 
