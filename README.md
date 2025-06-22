@@ -42,8 +42,6 @@ Here’s a snapshot of the certifications I’ve completed:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Colab](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
@@ -59,8 +57,8 @@ Here’s a snapshot of the certifications I’ve completed:
 
 ## 📫 Let’s Connect
 
-- ✉️ [Add your email here if you'd like]
-- 💼 [Add LinkedIn profile link if you'd like]
+- ✉️ gaurkaur25@gmail.com
+- 💼 www.linkedin.com/in/anmeet-kaur-968ba4139
 - 🧳 Open to internships, collaborations, and freelance opportunities
 
 Thanks for visiting! 🌟
