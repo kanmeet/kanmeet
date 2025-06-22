@@ -19,7 +19,7 @@ I'm a motivated and committed learner transitioning into the world of Artificial
 
 ## 📄 My Resume
 
-📥 https://github.com/kanmeet/kanmeet/kanmeet/ Data Scientist AI.pdf
+📥 https://github.com/kanmeet/kanmeet/kanmeet/Data Scientist AI.pdf
 
 ---
 
